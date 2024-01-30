@@ -9,3 +9,4 @@ def min(a, b):
 if __name__ == '__main__':
     print(mult(2, 5))
     print(min(9, 3))
+    print('как то так')
